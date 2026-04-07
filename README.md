@@ -1,5 +1,7 @@
 # 🧠 LookBook AI – Backend
 
+[![Backend Active](https://img.shields.io/badge/backend-active-brightgreen)](https://lookbook-backend-uxi1.onrender.com/)
+
 Backend dell’applicazione **LookBook AI**, che utilizza l’intelligenza artificiale per stimare il prezzo di capi di abbigliamento usati e salva i dati su database.
 
 ---
@@ -45,9 +47,10 @@ Riceve:
 
 ---
 
-## 🌐 Deploy
+## 🌐 Deploy & Link API
 - Backend deployato su Render  
-- API disponibile online  
+- API disponibile online: https://lookbook-backend-uxi1.onrender.com/
+(Visita la root per un messaggio di test del backend)
 
 ---
 
