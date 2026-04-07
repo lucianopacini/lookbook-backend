@@ -90,6 +90,11 @@ Rispondi SOLO in JSON con questa struttura:
     }
 });
 
+// --- Rotta test root ---
+app.get("/", (req, res) => {
+    res.send("Backend attivo su Render! 🚀");
+});
+
 // --- Start server ---
 app.listen(PORT, () => {
     console.log(`Server in ascolto su http://localhost:${PORT}`);
