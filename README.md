@@ -41,6 +41,7 @@ Riceve:
 - Database PostgreSQL su Supabase  
 - Tabella: `product`  
 - I dati vengono salvati in tempo reale  
+![Database Screenshot](./screenshot-supabase.png)
 
 ---
 
@@ -52,10 +53,12 @@ Riceve:
 
 ## 🔐 Variabili d’ambiente
 
+```env
 OPENAI_API_KEY=
 SUPABASE_URL=
 SUPABASE_KEY=
 PORT=
+```
 
 ---
 
