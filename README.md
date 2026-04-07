@@ -49,8 +49,8 @@ Riceve:
 
 ## 🌐 Deploy & Link API
 - Backend deployato su Render  
-- API disponibile online: https://lookbook-backend-uxi1.onrender.com/
-(Visita la root per un messaggio di test del backend)
+- API disponibile online: [Clicca qui per accedere al backend](https://lookbook-backend-uxi1.onrender.com/)  
+  *(Visita la root per un messaggio di test del backend)*
 
 ---
 
